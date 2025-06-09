@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "chipsfixes",
+    "name": "Chipsfixes",
+    "description": "A Bag of Chips",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Chips!","Chips!!","Chips!!"],
+    "credits": "In loving memory of this bag of chips. Your ultimate sacrifice for my snack time will not be forgotten. Thank you.",
+    "logoFile": "assets/chipsfixes/logo.jpg",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

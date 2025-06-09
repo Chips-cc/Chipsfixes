@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "package": "chips.chipsfixes.mixin",
+  "mixins": [
+    "astralsorcery.ChipsCrystalCalculations",
+    "astralsorcery.ChipsTileAccelerationBlacklist"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.chipsfixes.refmap.json"
+}
